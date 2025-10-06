@@ -53,6 +53,7 @@ Data Analysis & Visualization
 Reporting and Business Insights
 
 # Dashboard
+<img width="1433" height="615" alt="SalesPerformance" src="https://github.com/user-attachments/assets/5605a3e7-05d5-488e-96ea-757b6aadd9e4" />
 
 
 # Conclusion:
