@@ -11,7 +11,7 @@ This project uses structured datasets to calculate key metrics like Total Sales,
 This project is a great example of how Microsoft Excel can be used not just for data entry, but also as a powerful business analytics tool to track and improve sales efficiency.
 
 
-Dataset Information:
+## Dataset Information:
 
 The dataset contains sales data of multiple executives across 5 working days. It includes:
 
@@ -24,5 +24,4 @@ Target
 Target Hit %
 Away From Target %
 
-Dataset Source (Anchor Link): Sales Performance Dataset (Excel File)
-(Replace the above link with your actual GitHub dataset file link.)
+Dataset Source :- <a href="https://github.com/Aashuvishwakarma06/Sales-Target-Tracker-Analysis/blob/main/SalesPerformance.xlsx">Sales Perfomance Traker</a>
