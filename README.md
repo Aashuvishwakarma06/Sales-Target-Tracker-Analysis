@@ -1,8 +1,8 @@
-Project Title:
+****Project Title:***
 
-Sales Performance Tracker Dashboard (Excel Project)
+##Sales Performance Tracker Dashboard (Excel Project)
 
-Project Description:
+*Project Description:*
 
 The Sales Performance Tracker Dashboard is an Excel-based analytics project designed to monitor and evaluate the daily and total sales performance of sales executives across various regions.
 
