@@ -1,6 +1,6 @@
-****Project Title:***
+***Project Title:***
 
-##Sales Performance Tracker Dashboard (Excel Project)
+## Sales Performance Tracker Dashboard (Excel Project)
 
 *Project Description:*
 
