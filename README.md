@@ -42,7 +42,7 @@ Dataset Source :- <a href="https://github.com/Aashuvishwakarma06/Sales-Target-Tr
 
 🧠 Provides a clear view of daily sales patterns, helping in decision-making and planning.
 
-Dashboard :- <a href="https://github.com/Aashuvishwakarma06/Sales-Target-Tracker-Analysis/blob/main/SalesPerformance.xlsx">Sales Perfomance Traker</a>
+Dashboard :- <a href="[https://github.com/Aashuvishwakarma06/Sales-Target-Tracker-Analysis/blob/main/SalesPerformance.xlsx](https://github.com/Aashuvishwakarma06/Sales-Target-Tracker-Analysis/blob/main/SalesPerformance.png)">Sales Perfomance Traker</a>
 
 ## Tools & Skills Used:
 
