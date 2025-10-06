@@ -52,6 +52,9 @@ Data Analysis & Visualization
 
 Reporting and Business Insights
 
+# Dashboard
+
+
 # Conclusion:
 
 The Sales Performance Tracker Dashboard simplifies sales monitoring and promotes data-driven decision-making. It provides valuable insights for companies to improve productivity and for sales executives to track their achievements effectively.
